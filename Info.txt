@@ -1,0 +1,18 @@
+Opis Igre:
+Igra je bazirana na lavirintu u kojoj se igrac nalazi zarobljen unutar lavirinta punog izazova. Cilj igre je
+pronaci izlaz iz lavirinta dok se izbegavaju mumije koje pokusavaju uhvatiti i spreciti igraca da pobegne.
+Svaki korak igraca prati se sa dva koraka mumije, sto dodaje element taktike i brzine u igru. Igrac moze 
+koristiti kompjutersku pomoc (hint) ako zaglavi, sto mu pomaze da odabere sledeci pravac.
+Struktura Igre:
+Lavirint se sastoji od hodnika koji se seku pod pravim uglom, sa slepim putevima i bez ulaza osim jednog
+izlaza. Lavirint je generisan pomocu razlicitih algoritama, omogucavajuci element iznenadjenja svaki put
+kada se nova igra pokrene.
+Bosko Trifunovic
+Marta Maric
+Jana Vojvodic
+Graficki dizajn
+Lavirint i hint
+Pametna Mumija i skorovi
+Lavirint i logika igre
+Nivoi i mumije
+Siguran fajl
